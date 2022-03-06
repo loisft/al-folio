@@ -2,23 +2,46 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www-fourier.ujf-grenoble.fr'>Institut Fourier</a>,  <a href='https://www.univ-grenoble-alpes.fr/'>Université Grenoble-Alpes</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bureau 307</p>
+    <p>Institut Fourier</p>
+    <p> UMR 5582 CNRS/Université Grenoble-Alpes </p>
+    <p>100, rue des Mathématiques </p>
+    <p> 38610 Gières </p>
+    <p> France </p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Doctorant à l'Institut Fourier, UMR 5582 CNRS/Université Grenoble-Alpes, sous la direction d'<a href="https://www-fourier.univ-grenoble-alpes.fr/~peyre">Emmanuel Peyre</a>.
+Thèse débutée en septembre 2020.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<i> Second year PhD student at Institut Fourier, UMR 5582 CNRS/Université Grenoble-Alpes,
+supervised by Emmanuel Peyre. </i>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Mon sujet de thèse porte sur l'étude de l'espace de module des morphismes
+de la droite projective vers une <i>bonne</i>  variété (typiquement, de Fano),
+ou plus généralement des sections d'une <i>bonne</i>  famille au-dessus d'une courbe lisse projective.
+Mon travail concerne un analogue géométrique des <a href="https://en.wikipedia.org/wiki/Manin_conjecture"  > conjectures de Batyrev-Manin-Peyre</a>.
+Cet analogue se formule naturellement grâce aux outils de l'intégration motivique ;
+il s'agit alors d'étudier, dans un anneau de variétés adéquat, le comportement asymptotique de la classe de l'espace de module  
+des courbes de degré arbitrairement grand.<br/>
+<br/>
+Mots-clefs : espace de modules, courbes rationnelles, variétés de Fano, produit eulérien motivique.<br/>
+Ce projet doctoral est financé par une <a href="https://www.polytechnique.edu/programmedoctoral/fr/financement-amx">AMX</a>.
+
+<i>My PhD project concerns the study of the moduli space of rational curves on a <i>nice variety</i> (typically, a Fano variety), 
+or more generally the moduli space of sections of a <i>nice family</i> above a smooth projective irreducible curve.
+I work on a geometric analogue of the Batyrev-Manin-Peyre conjectures.
+The tools of motivic integration provide a nice framework to formulate this analogue;
+I study, in a relevant ring of varities, the asymptotic behaviour of the class of the moduli space of curves of arbitrary large degree. </i>
+
+<i> Keywords: moduli space, rational curves, Fano varieties, motivic Euler product. </i>
+

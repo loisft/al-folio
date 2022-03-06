@@ -2,10 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I also work as a teaching assistant at the Département licence sciences et technologies, UGA
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<i>2021-2022 </i> <br />
+MAT102 Mathématiques outils pour les sciences et l'ingénierie, L1, CM&TD <br />
+<i>2020-2021 </i> <br />
+MAT102 Mathématiques outils pour les sciences et l'ingénierie, L1, CM&TD <br />
+<a href="https://www-fourier.univ-grenoble-alpes.fr/~parisse/#mat404">MAT404</a> 
+Algèbre bilinéaire, séries de Fourier, L2, TD  <br />  
