@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Loïs
-middle_name: J.
+middle_name:
 last_name: Faisant
 email: lois.faisant@univ-grenoble-alpes.fr 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -16,7 +16,7 @@ footer_text: >
 keywords: geometric Manin conjecture, motivic integration # add your own keywords or leave empty
 
 lang: fr # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: iflogo-noir-blanc-250x100_0.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ➰  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://www-fourier.univ-grenoble-alpes.fr/ # the base hostname & protocol for your site
 baseurl: /~faisantl # the subpath of your site, e.g. /blog/
