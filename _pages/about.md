@@ -45,3 +45,6 @@ I study, in a relevant ring of varities, the asymptotic behaviour of the class o
 
 <i> Keywords: moduli space, rational curves, Fano varieties, motivic Euler product. </i>
 
+----- 
+
+Par ailleurs j'occupe un siège de représentant élu des doctorant.e.s au Conseil du Collège des Études doctorales de l'UGA, ainsi qu'un siège de suppléant à la Commission Recherche. Ne pas hésiter à me contacter à ce sujet. 

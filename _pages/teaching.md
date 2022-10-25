@@ -7,7 +7,11 @@ nav: true
 ---
 
 ## university 
-I work as a teaching assistant at the <a href="https://im2ag.univ-grenoble-alpes.fr">UFR IM2AG</a>
+I work as a teaching assistant at the <a href="https://im2ag.univ-grenoble-alpes.fr">UFR IM2AG</a>, Université Grenoble Alpes. 
+
+<i>2022-2023 </i> <br />
+MAT302 
+MAT309 
 
 <i>2021-2022 </i> <br />
 MAT102 Mathématiques outils pour les sciences et l'ingénierie, L1, CM&TD <br />
@@ -21,16 +25,17 @@ Algèbre bilinéaire, séries de Fourier, L2, TD  <br />
 Oral examiner in mathematics, first year undergraduate students, Lycée Champollion, Grenoble. 
 
 ### maths exercices (in French)
-<i>En construction</i>
-Toutes les questions de cours et tous les exercices que j'ai posés en colle à Champollion, par classe. 
+Toutes (ou quasiment toutes) les questions de cours et (quasiment) tous les exercices que j'ai posés en colle à Champollion, par classe. 
 
-<i>lien à venir</i>
+QC : [MPSI 1](/~faisantl/assets/pdf/MPSI1_Cours.pdf), [PCSI 1](/~faisantl/assets/pdf/PCSI1_Cours.pdf), [PSCI 2](/~faisantl/assets/pdf/PCSI2_Cours.pdf)
 
-Un recueil d'exercices, réalisé pendant ma dernière année de classe préparatoire, allant de l'exercice considéré comme faisant partie d'un cours de MP* à Louis-le-Grand jusqu'à des énoncés types de l'oral d'entrée aux ÉNS et des exercices abordés en colle. 
+Exercices : [MPSI 1](/~faisantl/assets/pdf/MPSI1_Exercices.pdf), [PCSI 1](/~faisantl/assets/pdf/PCSI1_Exercices.pdf), [PSCI 2](/~faisantl/assets/pdf/PCSI2_Exercices.pdf)
+
+Un [recueil d'exercices](/~faisantl/assets/pdf/Exercices de cours.pdf) (inachevé) réalisé pendant ma dernière année de classe préparatoire, allant de l'exercice considéré comme faisant partie d'un cours de MP* à Louis-le-Grand jusqu'à des énoncés types de l'oral d'entrée aux ÉNS et des exercices abordés en colle. 
 Ce conglomérat 
 doit beaucoup aux enseignements d'Y. Duval, N. Tosel, A. Pommellet et bien d'autres. 
+Il contient un certain nombre de coquilles et de typos. 
 
-<i>lien à venir</i>
 
 
 ## high school 
