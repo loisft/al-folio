@@ -8,7 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Bureau 307</p>
     <p>Institut Fourier</p>
     <p> UMR 5582 CNRS/Université Grenoble-Alpes </p>
     <p>100, rue des Mathématiques </p>
@@ -20,10 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Doctorant à l'Institut Fourier, UMR 5582 CNRS/Université Grenoble-Alpes, sous la direction d'<a href="https://www-fourier.univ-grenoble-alpes.fr/~peyre">Emmanuel Peyre</a>.
+Doctorant en troisème année à l'Institut Fourier, UMR 5582 CNRS/Université Grenoble-Alpes, sous la direction d'<a href="https://www-fourier.univ-grenoble-alpes.fr/~peyre">Emmanuel Peyre</a>.
 Thèse débutée en septembre 2020.
 
-<i> Second year PhD student at Institut Fourier, UMR 5582 CNRS/Université Grenoble-Alpes,
+<i> Third year PhD student at Institut Fourier, UMR 5582 CNRS/Université Grenoble-Alpes,
 supervised by Emmanuel Peyre. </i>
 
 Mon sujet de thèse porte sur l'étude de l'espace de module des morphismes
@@ -34,8 +33,6 @@ Cet analogue se formule naturellement grâce aux outils de l'intégration motivi
 il s'agit alors d'étudier, dans un anneau de variétés adéquat, le comportement asymptotique de la classe de l'espace de module  
 des courbes de degré arbitrairement grand.<br/>
 <br/>
-Mots-clefs : espace de modules, courbes rationnelles, variétés de Fano, produit eulérien motivique.<br/>
-Ce projet doctoral est financé par une <a href="https://www.polytechnique.edu/programmedoctoral/fr/financement-amx">AMX</a>.
 
 <i>My PhD project concerns the study of the moduli space of rational curves on a <i>nice variety</i> (typically, a Fano variety), 
 or more generally the moduli space of sections of a <i>nice family</i> above a smooth projective irreducible curve.
@@ -43,7 +40,14 @@ I work on a geometric analogue of the Batyrev-Manin-Peyre conjectures.
 The tools of motivic integration provide a nice framework to formulate this analogue;
 I study, in a relevant ring of varities, the asymptotic behaviour of the class of the moduli space of curves of arbitrary large degree. </i>
 
+
+Mots-clefs : espace de modules, courbes rationnelles, variétés de Fano, produit eulérien motivique.<br/>
+
 <i> Keywords: moduli space, rational curves, Fano varieties, motivic Euler product. </i>
+
+----- 
+
+Ce projet doctoral est financé par une allocation ministérielle <a href="https://www.polytechnique.edu">AMX</a>.
 
 ----- 
 

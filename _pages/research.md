@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research work
+title: research
 description: a very very short list of (pre)publicated research works and projects 
 years: [2021,2022]
 nav: true

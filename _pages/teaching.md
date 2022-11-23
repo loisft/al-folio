@@ -10,11 +10,13 @@ nav: true
 I work as a teaching assistant at the <a href="https://im2ag.univ-grenoble-alpes.fr">UFR IM2AG</a>, Université Grenoble Alpes. 
 
 <i>2022-2023 </i> <br />
-MAT302 
-MAT309 
+MAT302 <br />
+MAT309 <br />
+Un [corrigé du partiel de MAT309](/~faisantl/assets/pdf/2022_MAT309_Partiel_Corrige%CC%81.pdf), co-rédigé avec Florian Gaillot, sur un sujet de Roland Bacher. 
 
 <i>2021-2022 </i> <br />
-MAT102 Mathématiques outils pour les sciences et l'ingénierie, L1, CM&TD <br />
+MAT102 Mathématiques outils pour les sciences et l'ingénierie, L1, CM&TD 
+
 <i>2020-2021 </i> <br />
 MAT102 Mathématiques outils pour les sciences et l'ingénierie, L1, CM&TD <br />
 <a href="https://www-fourier.univ-grenoble-alpes.fr/~parisse/#mat404">MAT404</a> 
