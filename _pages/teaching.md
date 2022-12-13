@@ -9,24 +9,40 @@ nav: true
 ## university 
 I work as a teaching assistant at the <a href="https://im2ag.univ-grenoble-alpes.fr">UFR IM2AG</a>, Université Grenoble Alpes. 
 
-<i>2022-2023 </i> <br />
-MAT302 <br />
-MAT309 <br />
-Un [corrigé du partiel de MAT309](/~faisantl/assets/pdf/2022_MAT309_Partiel_Corrige%CC%81.pdf), co-rédigé avec Florian Gaillot, sur un sujet de Roland Bacher. 
+#### 2022-2023
+MAT302, Approfondissements sur les séries et sur l'intégration (TD) <br />
+(CM [Odile Garotta](https://www-fourier.ujf-grenoble.fr/~garotta/))<br />
 
-<i>2021-2022 </i> <br />
+
+MAT309, Algèbre et Arithmétique (TD)<br />
+(CM Roland Bacher)<br />
+Ressources pour les étudiant.e.s : <br />
+[Polycopié de Bernard Parisse](https://www-fourier.ujf-grenoble.fr/~parisse/mat309/mat309.pdf), hebergé sur [sa page](https://www-fourier.ujf-grenoble.fr/~parisse)<br />
+[Supplément de cours sur la méthode rho de Pollard et les codes correcteurs](https://www-fourier.univ-grenoble-alpes.fr/~bouche/ens/L2_MAT309/2022_MAT309-compl-cours.pdf), hebergé par [Thierry Bouche](https://www-fourier.univ-grenoble-alpes.fr/~bouche)
+<br />
+Les sujets de partiels et de CC :
+<br />
+[Sujet de CC1](/~faisantl/assets/pdf/2022_MAT309_CC1.pdf) 
+<br />
+[Sujet du partiel] et un [corrigé](/~faisantl/assets/pdf/2022_MAT309_Partiel_Corrige.pdf)
+co-rédigé avec Florian Galliot
+<br />
+[Sujet de CC2] et un [corrigé](/~faisantl/assets/pdf/2022_MAT309_CC2_Corrige.pdf) fait par Rémi Castera. 
+
+
+#### 2021-2022
 MAT102 Mathématiques outils pour les sciences et l'ingénierie, L1, CM&TD 
 
-<i>2020-2021 </i> <br />
+#### 2020-2021
 MAT102 Mathématiques outils pour les sciences et l'ingénierie, L1, CM&TD <br />
 <a href="https://www-fourier.univ-grenoble-alpes.fr/~parisse/#mat404">MAT404</a> 
 Algèbre bilinéaire, séries de Fourier, L2, TD  <br />  
 
 ## preparatory classes 
-<i>2019-2020 </i> <br />
+#### 2019-2020
 Oral examiner in mathematics, first year undergraduate students, Lycée Champollion, Grenoble. 
 
-### maths exercices (in French)
+#### maths exercices (in French)
 Toutes (ou quasiment toutes) les questions de cours et (quasiment) tous les exercices que j'ai posés en colle à Champollion, par classe. 
 
 QC : [MPSI 1](/~faisantl/assets/pdf/MPSI1_Cours.pdf), [PCSI 1](/~faisantl/assets/pdf/PCSI1_Cours.pdf), [PSCI 2](/~faisantl/assets/pdf/PCSI2_Cours.pdf)
@@ -41,7 +57,7 @@ Il contient un certain nombre de coquilles et de typos.
 
 
 ## high school 
-<i>2016-2017</i> <br />
+#### 2016-2017
 Teaching assistant for six months, Saint-Cyr-l’École Military High School. Maths and physics for high school and undergraduate students.
 
 ## others
