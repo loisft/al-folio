@@ -1,12 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: other
+nav: true
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: creative coding
+    #  permalink: /creative-coding/
+    - title: photography
+    #  permalink: /photography/
+    - title: music
+    #  permalink: /photography/
 ---

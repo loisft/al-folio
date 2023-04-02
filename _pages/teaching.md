@@ -24,10 +24,10 @@ Les sujets de partiels et de CC :
 <br />
 [Sujet de CC1](/~faisantl/assets/pdf/2022_MAT309_CC1.pdf) 
 <br />
-[Sujet du partiel] et un [corrigé](/~faisantl/assets/pdf/2022_MAT309_Partiel_Corrige.pdf)
+[Sujet du partiel](/~faisantl/assets/pdf/2022_MAT309_Partiel.pdf)  et un [corrigé](/~faisantl/assets/pdf/2022_MAT309_Partiel_Corrige.pdf)
 co-rédigé avec Florian Galliot
 <br />
-[Sujet de CC2] et un [corrigé](/~faisantl/assets/pdf/2022_MAT309_CC2_Corrige.pdf) fait par Rémi Castera. 
+[Sujet de CC2](/~faisantl/assets/pdf/2022_MAT309_CC2.pdf) et un [corrigé](/~faisantl/assets/pdf/2022_MAT309_CC2_Corrige.pdf) fait par [Rémi Castera](https://lig-membres.imag.fr/casterar/)
 
 
 #### 2021-2022
